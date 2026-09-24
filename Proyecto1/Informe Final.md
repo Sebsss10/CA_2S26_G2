@@ -283,5 +283,5 @@ La actividad concluyó reforzando la idea central de la capacitación:
 ---
 
 <div style="margin-top:60px; text-align:center; color:#718096; font-size:0.9rem;">
-  <p><em>Informe Final — Proyecto 1 de Comunicación Asertiva para la Transferencia de Conocimiento Técnico</em></p>
+  <p><em>Informe Final — Proyecto 1 de Comunicación Asertiva</em></p>
 </div>
